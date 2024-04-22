@@ -1,0 +1,40 @@
+.msg-box {
+  display: flex;
+  width: 50%;
+  margin: 5px;
+}
+.cir {
+  border-radius: 75px;
+  height: 60px;
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: purple;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text-con {
+  padding-left: 15px;
+}
+.text-style-con {
+  display: flex;
+}
+.name {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  line-height: 0px;
+}
+.time {
+  font-family: "Times New Roman", Times, serif;
+  color: #323f4b;
+  padding-left: 15px;
+}
+.clean-text {
+  background-color: #dee0e2;
+  border-radius: 10px;
+  padding: 15px;
+}
